@@ -5,6 +5,6 @@ public class myTest {
     public void printHello(){
         System.out.println("Hi");
     }
-    
+
 
 }
